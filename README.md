@@ -1,1 +1,1 @@
-# ListOfUsersREST_API
+Проект аналог https://github.com/XtatOne/ListOfUsers. На даном проекте я изучаю Spring REST.
